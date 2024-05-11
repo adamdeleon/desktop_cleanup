@@ -30,7 +30,10 @@ This Python script automates the organization of files on your desktop into fold
     ```python
     #!/usr/bin/env python3
     ```
+    
     This line should be the very first line in the script.
+
+4. Create a config.py file with a USERNAME variable and assign it to the signed in username
 
 ## Usage
 
