@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 import os
 import shutil
+from config import USERNAME
 
-username = 'adamflorez'
 # Path to your desktop (change 'your_username' to your actual user name)
-desktop_path = f'/Users/{username}/Desktop'
+desktop_path = f'/Users/{USERNAME}/Desktop'
 # Destination path for organized folders
-organized_path = f'/Users/{username}/Desktop/Organized'
+organized_path = f'/Users/{USERNAME}/Desktop/Organized'
 # Ensure the destination path exists
 os.makedirs(organized_path, exist_ok=True)
 # List all files on the desktop
