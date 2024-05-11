@@ -7,7 +7,7 @@ This Python script automates the organization of files on your desktop into fold
 - **Automatic Organization**: Automatically moves files into designated folders based on file type.
 - **Customizable**: Script parameters can be adjusted to change target directories and file handling rules.
 
-![Desktop Cleanup]("assets/output.gif")
+![Desktop Cleanup](assets/output.gif)
 
 ## Prerequisites
 
